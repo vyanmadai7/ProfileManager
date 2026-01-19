@@ -15,16 +15,16 @@ Instead of manually logging into websites every time, this tool:
 - Fills in credentials
 - Clicks the login button for you
 
-It’s simple, practical, and perfect for learning Selenium automation.
+It’s simple, perfect for learning Selenium automation, and it's practical but do you really think you need to use this???.
 
 ---
 
 ## Features
 
 - Store multiple website login profiles  
-- Config-based automation system  
+- Config based automation system  
 - Clean and modular Python code  
-- Command-line interface  
+- Command line interface  
 - Easy to extend for new websites  
 
 ---
@@ -109,3 +109,4 @@ Do not use it for unauthorized access to any website.
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and share it — just keep the license included.
+
