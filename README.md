@@ -7,7 +7,7 @@ Think of it as your personal login assistant for testing and automation practice
 
 ---
 
-## What This Project Does
+-----## What This Project Does ##-----
 
 Instead of manually logging into websites every time, this tool:
 - Saves login details in a config file
@@ -19,7 +19,7 @@ It’s simple, perfect for learning Selenium automation, and it's practical but 
 
 ---
 
-## Features
+-----## Features ##-----
 
 - Store multiple website login profiles  
 - Config based automation system  
@@ -109,4 +109,5 @@ Do not use it for unauthorized access to any website.
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and share it — just keep the license included.
+
 
