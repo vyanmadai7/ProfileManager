@@ -1,4 +1,4 @@
-# Profile Manager (Python + Selenium)
+# Profile Manager
 
 Profile Manager is a small but powerful automation tool that stores website login profiles and automatically logs in using Selenium.  
 It helps you avoid typing usernames and passwords repeatedly while learning real browser automation.
@@ -109,5 +109,6 @@ Do not use it for unauthorized access to any website.
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and share it — just keep the license included.
+
 
 
