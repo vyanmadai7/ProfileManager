@@ -15,7 +15,7 @@ Instead of manually logging into websites every time, this tool:
 - Fills in credentials
 - Clicks the login button for you
 
-It’s simple, perfect for learning Selenium automation, and it's practical but do you really think you need to use this???.
+It’s simple, perfect for learning Selenium automation, and it's practical but do you really think you need to use this???
 
 ---
 
@@ -109,6 +109,7 @@ Do not use it for unauthorized access to any website.
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and share it — just keep the license included.
+
 
 
 
