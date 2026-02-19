@@ -98,17 +98,18 @@ Only `profiles_example.json` is included so others can create their own safely.
 
 ---
 
-## Disclaimer
+## -Disclaimer-
 
 This project is made for educational purposes and automation practice only.  
 Do not use it for unauthorized access to any website.
 
 ---
 
-## License
+## -License-
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and share it — just keep the license included.
+
 
 
 
