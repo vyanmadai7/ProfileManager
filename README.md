@@ -1,4 +1,4 @@
-# Profile Manager
+## -Profile Manager-
 
 Profile Manager is a small but powerful automation tool that stores website login profiles and automatically logs in using Selenium.  
 It helps you avoid typing usernames and passwords repeatedly while learning real browser automation.
@@ -7,7 +7,7 @@ Think of it as your personal login assistant for testing and automation practice
 
 ---
 
-## What This Project Does
+## -What This Project Does-
 
 Instead of manually logging into websites every time, this tool:
 - Saves login details in a config file
@@ -19,7 +19,7 @@ It’s simple, perfect for learning Selenium automation, and it's practical but 
 
 ---
 
-## Features
+## -Features-
 
 - Store multiple website login profiles  
 - Config based automation system  
@@ -29,7 +29,7 @@ It’s simple, perfect for learning Selenium automation, and it's practical but 
 
 ---
 
-## Requirements
+## -Requirements-
 
 - Python 3.x  
 - Selenium  
@@ -38,7 +38,7 @@ It’s simple, perfect for learning Selenium automation, and it's practical but 
 
 ---
 
-## Installation
+## -Installation-
 
 Clone the repository:
 
@@ -50,13 +50,13 @@ Create and activate virtual environment:
 python3 -m venv venv  
 source venv/bin/activate  
 
-## Install Selenium:
+## -Install Selenium:-
 
 pip install selenium  
 
 ---
 
-## Usage
+## -Usage-
 
 Run the program:
 
@@ -66,7 +66,7 @@ Here, `github` is the profile name from the profiles configuration file.
 
 ---
 
-## Adding a New Website Profile
+## -Adding a New Website Profile-
 
 Open:
 
@@ -91,7 +91,7 @@ python main.py <profile_name>
 
 ---
 
-## Important Security Note
+## -Important Security Note-
 
 The real `profiles.json` file is ignored by Git to protect your private credentials.  
 Only `profiles_example.json` is included so others can create their own safely.
@@ -109,9 +109,3 @@ Do not use it for unauthorized access to any website.
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and share it — just keep the license included.
-
-
-
-
-
-
